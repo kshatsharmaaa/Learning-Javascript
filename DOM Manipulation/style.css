@@ -1,0 +1,27 @@
+.heading {
+    color: blue;
+}
+
+/* body {
+    background-color: pink;
+} */
+
+button {
+    background-color: greenyellow;
+    color: red;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.content {
+    color : red;
+}
+
+.newClass {
+    border-right-color: yellow;
+}
