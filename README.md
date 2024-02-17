@@ -1,8 +1,8 @@
 # Learning-Javascript
 
-Repository Name: JavaScript Learning Repository
 
-Description:
+
+## Description:
 This repository contains code snippets and projects related to my journey of learning JavaScript. It serves as a revision and reference for various concepts I've explored. Feel free to explore, use, or contribute to the code.
 
 Key Features:
