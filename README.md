@@ -13,8 +13,8 @@ Revision: Use this repository as a quick reference for JavaScript syntax, best p
 How to Use:
 
 ## Clone the repository to your local machine
-
-git clone https://github.com/kshatsharmaaa/Learning-Javascript.git
+```bash
+      git clone https://github.com/kshatsharmaaa/Learning-Javascript.git
 
 Navigate through folders to find relevant code snippets or projects.
 Use the code as a reference, incorporate it into your projects, or contribute by adding more examples or improving existing ones.
